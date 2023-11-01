@@ -1,0 +1,17 @@
+Opgave 3.8.1
+Skriv et program med den abstrakte superklasse ejendom.
+Tre nedarvede klasser villa, butik og etage skal have følgende egenskaber.
+
+Villa:  Konstruktøren skal modtage antal rum, antal beboede kvadratmeter og pris.
+
+Butik: Konstruktøren skal modtage beboelsesareal, butiksareal samt pris.
+
+Etage: Konstruktøren skal modtage beboelsesareal, butiksareal, antal etager og pris.
+
+Alle klasserne skal have en metode til at udskrive pris per kvadratmeter.
+
+I hver klasse skal der også være en metode til udskrivning af objektets data.
+
+Indsæt nogle villaer, butikker og etageejendomme i en datastruktur ejendomme.
+
+Udskriv data om alle ejendomme i datastrukturen ejendomme.
